@@ -1,6 +1,4 @@
-"use strict";
 // Utility types and mapped items
-Object.defineProperty(exports, "__esModule", { value: true });
 function updateUser(id, data) {
     // typescript will understand data can be anything , optional
 }
@@ -15,5 +13,6 @@ const permission = {
     write: true,
     delete: true,
 };
+export {};
 // permission system, configuration object - record uses more
 //# sourceMappingURL=utilityTypes.js.map

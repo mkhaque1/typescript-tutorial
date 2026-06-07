@@ -1,6 +1,4 @@
-"use strict";
 // array types
-Object.defineProperty(exports, "__esModule", { value: true });
 let names = ['ggdgd', 'rahim', 'karim']; // array string types
 let numbers = [1, 3, 5, 6, 7]; // array number types
 // alternative syntax of array
@@ -28,4 +26,5 @@ var Direction;
 })(Direction || (Direction = {}));
 let getDirection = Direction.Down;
 console.log(getDirection);
+export {};
 //# sourceMappingURL=arrayTuplesEnums.js.map

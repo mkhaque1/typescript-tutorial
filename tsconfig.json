@@ -7,9 +7,10 @@
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    "module": "nodenext",
+    "module": "esnext",
+    "moduleResolution": "bundler",
     "target": "es2022",
-    "types": [],
+    "types": ["node"], // add must while using import export
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],

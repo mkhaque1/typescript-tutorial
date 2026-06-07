@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let name = 'karim'; // type annotation
 let number = 25; // type annotation
 let isActive = true;
@@ -16,5 +14,6 @@ userId = 42;
 // null and undefined (be carefull)
 let email = null;
 email = 'test@gmail.com';
+export {};
 // null related crush web apps e most common
 //# sourceMappingURL=basicTypes.js.map

@@ -1,6 +1,4 @@
-"use strict";
 // object
-Object.defineProperty(exports, "__esModule", { value: true });
 // user object , product object , order object
 let user = {
     name: 'rahim',
@@ -14,6 +12,7 @@ const admin = {
     role: 'developer',
     permission: ['read', 'write'],
 };
+export {};
 // union type
 // tpye ID = string | number;
 // is object alawys use interface, Union or complex type - type alias

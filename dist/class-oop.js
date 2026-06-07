@@ -1,6 +1,4 @@
-"use strict";
 // class
-Object.defineProperty(exports, "__esModule", { value: true });
 class Product {
     // same like javascript but only type used in property
     name;
@@ -57,4 +55,5 @@ class Invoice {
 }
 const i = new Invoice(9000);
 console.log(i.amount);
+export {};
 //# sourceMappingURL=class-oop.js.map

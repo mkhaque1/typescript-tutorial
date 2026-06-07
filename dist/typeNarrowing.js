@@ -1,6 +1,4 @@
-"use strict";
 // type narrowing
-Object.defineProperty(exports, "__esModule", { value: true });
 // union type input: string | number
 // toUpperCase() string method
 // typeof keyword
@@ -29,4 +27,5 @@ const kitty = {
     },
 };
 makesound(kitty);
+export {};
 //# sourceMappingURL=typeNarrowing.js.map

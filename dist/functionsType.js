@@ -1,6 +1,4 @@
-"use strict";
 // functions & Type safety
-Object.defineProperty(exports, "__esModule", { value: true });
 function greet(name) {
     return ` hello ${name} !`;
 }
@@ -31,4 +29,5 @@ const multiply = (a, b) => {
     return a * b;
 };
 console.log(multiply(5, 10));
+export {};
 //# sourceMappingURL=functionsType.js.map
