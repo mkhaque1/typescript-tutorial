@@ -17,4 +17,4 @@ userId = 42;
 let email = null;
 email = 'test@gmail.com';
 // null related crush web apps e most common
-//# sourceMappingURL=hello.js.map
+//# sourceMappingURL=basicTypes.js.map
