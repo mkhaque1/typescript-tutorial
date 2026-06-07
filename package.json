@@ -5,6 +5,6 @@
   "scripts": {
     "build" : "tsc",
     "dev": "tsc --watch",
-    "start" : "node dist/functionsType.js"
+    "start" : "node dist/objectInterface.js"
   }
 }
